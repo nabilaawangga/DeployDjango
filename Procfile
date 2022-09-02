@@ -1,1 +1,1 @@
-web: gunicorn DeployDjango.wsgi --log-file -
+web: gunicorn projectpbp1.wsgi --log-file -
